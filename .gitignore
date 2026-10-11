@@ -218,3 +218,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+data/
+*.tif
+*.zip
+*.gpkg
+.ipynb_checkpoints/
+.DS_Store
